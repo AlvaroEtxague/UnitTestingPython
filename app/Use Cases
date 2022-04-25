@@ -1,0 +1,8 @@
+DONE - Can I call FizzBuzz
+DONE - Get "1" when I pass in 1
+DONE - Get "2" when I pass in 2
+DONE - Get "Fizz" when I pass in 3
+DONE - Get "Buzz" when I pass in 5
+DONE - Get "Fizz" when I pass in 6 (multiple of 3)
+DONE - Get "Buzz" when I pass in 10 (multiple of 5)
+DONE - Get "FizzBuzz" when I pass in 15 (multiple of 3 and 5)
